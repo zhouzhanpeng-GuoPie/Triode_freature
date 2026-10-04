@@ -21,8 +21,3 @@
 **三极管的输入、输出特性曲线测量：** 通过STM32F407的DAC递增控制恒流源作用于三极管，并将ADC采集结果处理。
 <div>
 
- 
-## Maintainers
-#### Hi there 👋 I'm [ZhouZhanPeng](https://github.com/zzpspierman123)
-> A Sophomore Student in [HuaiHua University](http://www.hhtc.edu.cn/?affichelist-2)
-> ⭐️ [@zzpspierman123](https://github.com/zzpspierman123)
